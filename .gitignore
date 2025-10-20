@@ -1,0 +1,75 @@
+# ======================================
+# Java compiled files
+# ======================================
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Build directories
+/bin/
+/build/
+/out/
+/target/
+
+# ======================================
+# JDK / installer / large binaries
+# ======================================
+*.exe
+*.msi
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.iso
+
+# ======================================
+# IDE files
+# ======================================
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# ======================================
+# OS-specific
+# ======================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ======================================
+# Temporary and generated files
+# ======================================
+*.tmp
+*.bak
+*.swp
+*.old
+*.orig
+
+# ======================================
+# Custom exclusions for AntWar project
+# ======================================
+# JDK installer
+jdk-*.exe
+
+# Draw.io exports or embedded image metadata
+embed.png.txt
+Biểu đồ không có tiêu đề.drawio.png
